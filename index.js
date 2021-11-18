@@ -7,7 +7,6 @@ var body = document.querySelector('body');
 
 var color = ["orange", "aqua", "yellowgreen", "pink", "violet", "yellow", "lightgreen", "blanchedalmond", "lightsalmon"];
 
-
 const storeName = "PPName";
 const storeScore = "PPMaxScore";
 const rod1Name = "Rod 1";
